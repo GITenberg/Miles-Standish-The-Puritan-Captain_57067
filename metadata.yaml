@@ -1,5 +1,8 @@
 _repo: Miles-Standish-The-Puritan-Captain_57067
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57067-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbott, John S. C. (John Stevens Cabot)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1298
     wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57067#Miles-Standish-The-Puritan-Captain
 gutenberg_issued: '2018-04-28'
 gutenberg_type: Text
 identifiers:
